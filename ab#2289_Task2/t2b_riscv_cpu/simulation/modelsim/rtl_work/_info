@@ -1,0 +1,443 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1700049904
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVoNLYSBLGLg0P_L1_g7a[0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1699876622
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/adder.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/adder.v
+!i122 12
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1700049904.000000
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 Zl9d2BC46[M^moL3^1P^o2
+R2
+IUHHjW46eT^nEf;IFHCNLW2
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu.v
+!i122 11
+Z10 L0 4 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+R1
+!i10b 1
+!s100 1HJ2k3DAdbMEg[c4aoOYe0
+R2
+I07Bj9PFdnjokeMPj]ClZ>3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu_decoder.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu_decoder.v
+!i122 10
+L0 4 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R1
+!i10b 1
+!s100 :G=WjJgf0KY_dJU^OcO9;0
+R2
+IWJ1^=8cGU<I3TZkdeV=4C3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/controller.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/controller.v
+!i122 9
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+Z11 !s110 1700049905
+!i10b 1
+!s100 cSgAMTM]e`<Hged1CI=SB3
+R2
+I<j5o2:f2758ohbnQiNT[<2
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/data_mem.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/data_mem.v
+!i122 13
+L0 4 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu|D:/t2b_riscv_cpu/t2b_riscv_cpu/data_mem.v|
+!i113 1
+R7
+Z12 !s92 -vlog01compat -work work +incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu
+R9
+vdatapath
+Z13 !s110 1700049903
+!i10b 1
+!s100 D=b@K`4LA`BUVGz^ed6YJ2
+R2
+ITd?nYXa=j^h2jVT=47jMc3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/datapath.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/datapath.v
+!i122 8
+L0 4 58
+R5
+r1
+!s85 0
+31
+Z14 !s108 1700049903.000000
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R13
+!i10b 1
+!s100 RgQ?:B9HOGj6dKTd_RDFc1
+R2
+IBOW`J22iZ`c]QY?O3J_fI3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/imm_extend.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/imm_extend.v
+!i122 7
+L0 4 21
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R11
+!i10b 1
+!s100 Zm@]cALDSVe?ldIn==65P3
+R2
+ILLkdSK[je6aeQhZdYkG>d2
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/instr_mem.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/instr_mem.v
+!i122 16
+L0 4 18
+R5
+r1
+!s85 0
+31
+Z15 !s108 1700049905.000000
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu|D:/t2b_riscv_cpu/t2b_riscv_cpu/instr_mem.v|
+!i113 1
+R7
+R12
+R9
+vload_extend
+R13
+!i10b 1
+!s100 OL@6b0RIl7VG9HofNj8TZ3
+R2
+IC6gQjPLzaiKdKRNmiMGVF0
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/load_extend.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/load_extend.v
+!i122 6
+L0 5 18
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/load_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/load_extend.v|
+!i113 1
+R7
+R8
+R9
+vmain_decoder
+R13
+!i10b 1
+!s100 3bBc2g3ZoE5]cGl2mOz7e1
+R2
+IJK=2j:Z`QM4U]E2He`ige0
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/main_decoder.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/main_decoder.v
+!i122 5
+L0 4 59
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+Z16 !s110 1700049902
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+IEg^miNM=3WcHz5ob7F55k3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux2.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux2.v
+!i122 4
+Z17 L0 4 9
+R5
+r1
+!s85 0
+31
+Z18 !s108 1700049902.000000
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R16
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+IQlgHU835oflmLZ_lcYT?i0
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux4.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux4.v
+!i122 3
+R17
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R16
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+I0B7ZB0BRLmUo4zW`O7Bl:3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/reg_file.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/reg_file.v
+!i122 2
+L0 8 27
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R16
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+I82<D4RQ0h9FO0G]iYDfjo3
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/reset_ff.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/reset_ff.v
+!i122 1
+L0 4 12
+R5
+r1
+!s85 0
+31
+R18
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R11
+!i10b 1
+!s100 CEeCec?601IaN3z0CXM_O1
+R2
+IEE3GJ3So:d0V66dgkUmb:2
+R3
+R0
+w1700048863
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/riscv_cpu.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/riscv_cpu.v
+!i122 14
+L0 2 24
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu|D:/t2b_riscv_cpu/t2b_riscv_cpu/riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vstore_extend
+!s110 1700049901
+!i10b 1
+!s100 `7lgHbO]i8?35[O610COF3
+R2
+I5Yh<0Qi3cW^LegWI@L>[^2
+R3
+R0
+R4
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/components/store_extend.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/components/store_extend.v
+!i122 0
+L0 4 16
+R5
+r1
+!s85 0
+31
+!s108 1700049901.000000
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/components/store_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/components|D:/t2b_riscv_cpu/t2b_riscv_cpu/components/store_extend.v|
+!i113 1
+R7
+R8
+R9
+vt2b_riscv_cpu
+R11
+!i10b 1
+!s100 Ok;H?=kWRhRcddT@L3;W81
+R2
+I5@gJUnTiZ_O[O`lHF@JW=2
+R3
+R0
+w1699606698
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/t2b_riscv_cpu.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/t2b_riscv_cpu.v
+!i122 15
+L0 17 24
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu|D:/t2b_riscv_cpu/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vtb
+R11
+!i10b 1
+!s100 YmX5GZ5knY=g?g6]ho1EK0
+R2
+I2<FLOMbB0D3l=d?0Q<MeG1
+R3
+R0
+w1700049822
+8D:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim/tb.v
+FD:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim/tb.v
+!i122 17
+L0 3 92
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim|D:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+D:/t2b_riscv_cpu/t2b_riscv_cpu/simulation/modelsim
+R9
